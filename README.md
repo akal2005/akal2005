@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akal2005" alt="akal2005" /></a> </p>
 
-- 🔭 I’m currently working on **Secure gaze**
+- 🔭 I’m currently working on **Rehab 360**
 
 - 🌱 I’m currently learning **Java**
 
