@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **Web Application Development**
 
 - 👨‍💻 All of my projects are available at [https://akal05.my.canva.site/](https://akal05.my.canva.site/)
 
