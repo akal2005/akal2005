@@ -22,13 +22,13 @@
 ```typescript
 const akalya: Developer = {
   name:        "Akalya B",
-  role:        "Frontend Developer",
+  role:        "Java Full Stack",
   education:   "BE - Computer Science & Engineering",
   location:    "Karur, India 🇮🇳",
-  currentWork: "🏥 Rehab 360",
-  learning:    ["Java", "Advanced React Patterns"],
-  collaborate: "Web Application Development",
-  askMeAbout:  ["Java", "SQL", "React", "JavaScript"],
+  currentWork: "🏥 AI - Projects",
+  learning:    ["Java", "DSA"],
+  collaborate: "Full Stack, Cloud fundamentals",
+  askMeAbout:  ["Java", "SQL", "React", "JavaScript","Spring Boot"],
   portfolio:   "https://akal05.my.canva.site/",
   email:       "raahulahalya0@gmail.com",
   funFact:     "I turn ☕ into beautiful UIs!"
