@@ -169,7 +169,7 @@ const akalya: Developer = {
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1W7SJAMGiy_Ly9oGNuyKCYkwVG9jU3eqx/view?usp=drive_link" target="blank">
+<a href="https://drive.google.com/file/d/11nYIEeGblUgSqZv4GFnJ44k0kB0w8IPH/view?usp=drive_link" target="blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
