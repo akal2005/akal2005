@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Akalya%20B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Student%20%7C%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Akalya%20B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing Animation - Fixed with svg.wakatime alternative -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=80&lines=⚛️+React+%7C+TypeScript+%7C+JavaScript;🏥+Currently+Building+Rehab+360;🌱+Learning+Java+%7C+Open+to+Collaborate!" alt="Typing SVG" />
