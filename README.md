@@ -3,10 +3,8 @@
 <!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Akalya%20B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Student%20%7C%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=⚛️+React+%7C+TypeScript+%7C+JavaScript;🏥+Currently+Building+Rehab+360;🌱+Learning+Java+%7C+Open+to+Collaborate!" alt="Typing SVG" />
-</a>
+<!-- Typing Animation - Fixed with svg.wakatime alternative -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=80&lines=⚛️+React+%7C+TypeScript+%7C+JavaScript;🏥+Currently+Building+Rehab+360;🌱+Learning+Java+%7C+Open+to+Collaborate!" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +31,6 @@ const akalya: Developer = {
   askMeAbout:  ["Java", "SQL", "React", "JavaScript"],
   portfolio:   "https://akal05.my.canva.site/",
   email:       "raahulahalya0@gmail.com",
-  resume:      "https://drive.google.com/file/d/1W7SJAMGiy_Ly9oGNuyKCYkwVG9jU3eqx/view",
   funFact:     "I turn ☕ into beautiful UIs!"
 };
 ```
@@ -43,7 +40,10 @@ const akalya: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akal2005&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="akal2005 trophies" />
+
+<!-- Fixed: using different trophy theme that's more stable -->
+<img src="https://github-trophies.vercel.app/?username=akal2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="akal2005 trophies" />
+
 </div>
 
 ---
@@ -115,13 +115,13 @@ const akalya: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akal2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akal2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=true" height="160" alt="stats graph" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akal2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akal2005&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akal2005&theme=radical&hide_border=true" alt="akal2005 streak" />
+  <img src="https://streak-stats.demolab.com?user=akal2005&theme=radical&hide_border=true" alt="akal2005 streak" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ const akalya: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akal2005&theme=redical&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akal2005&bg_color=141321&color=A855F7&line=F85D7F&point=FFFFFF&hide_border=true&area=true&area_color=A855F7" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -154,23 +154,23 @@ const akalya: Developer = {
 <div align="center">
 
 <a href="https://linkedin.com/in/akal2005" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://instagram.com/_._akal__" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://akal05.my.canva.site/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:raahulahalya0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1W7SJAMGiy_Ly9oGNuyKCYkwVG9jU3eqx/view?usp=drive_link" target="blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
 </div>
@@ -184,7 +184,8 @@ const akalya: Developer = {
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/akal2005/count.svg?" alt="visitor count"/>
+<!-- Fixed visitor counter - using komarev which is most reliable -->
+<img src="https://komarev.com/ghpvc/?username=akal2005&style=for-the-badge&color=blueviolet&label=PROFILE+VISITS" alt="visitor count" />
 
 <br/><br/>
 
