@@ -17,23 +17,40 @@
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-```typescript
-const akalya: Developer = {
-  name:        "Akalya B",
-  role:        "Java Full Stack",
-  education:   "BE - Computer Science & Engineering",
-  location:    "Karur, India 🇮🇳",
-  currentWork: "🏥 AI - Projects",
-  learning:    ["Java", "DSA"],
-  collaborate: "Full Stack, Cloud fundamentals",
-  askMeAbout:  ["Java", "SQL", "React", "JavaScript","Spring Boot"],
-  portfolio:   "https://akal05.my.canva.site/",
-  email:       "raahulahalya0@gmail.com",
-  funFact:     "I turn ☕ into beautiful UIs!"
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🪪 Profile
+| | |
+|---|---|
+| 👤 **Name** | Akalya B |
+| 💼 **Role** | Java Full Stack Developer |
+| 🎓 **Education** | BE – Computer Science & Engineering |
+| 📍 **Location** | Karur, India 🇮🇳 |
+| 📧 **Email** | raahulahalya0@gmail.com |
+
+</td>
+    <td valign="top" width="50%">
+
+### 🚀 Current Focus
+| | |
+|---|---|
+| 🔭 **Working On** | AI Projects |
+| 🌱 **Learning** | Java · DSA |
+| 🤝 **Open To** | Full Stack · Cloud Collaborations |
+| 💬 **Ask Me About** | Java · SQL · React · Spring Boot |
+| 🌐 **Portfolio** | [akal05.my.canva.site](https://akal05.my.canva.site/) |
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/☕%20I%20turn%20coffee%20into%20beautiful%20UIs!-blueviolet?style=for-the-badge" />
+</div>
 
 ---
 
@@ -169,7 +186,7 @@ const akalya: Developer = {
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/11nYIEeGblUgSqZv4GFnJ44k0kB0w8IPH/view?usp=drive_link" target="blank">
+<a href="https://drive.google.com/file/d/1W7SJAMGiy_Ly9oGNuyKCYkwVG9jU3eqx/view?usp=drive_link" target="blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
